@@ -25,6 +25,7 @@ import souljaboy from "./souljaboy.jpeg";
 
 import fireworks from "./fireworks.gif";
 import christmas from "./christmas.gif";
+import beruang from "./beruang.gif";
 
 
 
@@ -45,6 +46,7 @@ citra,
 mitski,
 ndx,
 heavenly,
+beruang,
 christmas,
 fireworks,
 souljaboy,

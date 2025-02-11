@@ -1,7 +1,7 @@
 import React from 'react'
 import {ArrowLeft } from './icons'
 import { useNavigate } from 'react-router-dom'
-import { fireworks,christmas } from '../assets';
+import { fireworks,beruang } from '../assets';
 
 function Closing() {
   const navigate = useNavigate();
@@ -23,8 +23,8 @@ function Closing() {
         {/* Christmas tree */}
         <div className="z-10 mb-8">
           <img
-            src={christmas}
-            alt="Animated Christmas Tree"
+            src={beruang}
+            alt="Beruang Gemoy"
             className="w-64 h-64 object-contain"
           />
         </div>
